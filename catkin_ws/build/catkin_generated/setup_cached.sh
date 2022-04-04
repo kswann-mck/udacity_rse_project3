@@ -7,5 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PWD="/home/robond/Documents/udacity_rse_project2/catkin_ws/build"
-export ROS_PACKAGE_PATH="/home/workspace/catkin_ws/src:/home/robond/Documents/udacity_rse_project2/catkin_ws/src:/opt/ros/kinetic/share"
+export PWD="/home/robond/Documents/udacity_rse_project3/catkin_ws/build"
