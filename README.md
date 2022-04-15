@@ -3,6 +3,8 @@ Udacity Robotics Software Engineer Project 3 Where Am I
 
 This project uses implements Adaptive Monte Carlo Localization in ROS to localize a robot within a model of a building.
 
+![robot_localization.png](img/robot_localization.png)
+
 # Installation
 
 ## Prepare the VM
