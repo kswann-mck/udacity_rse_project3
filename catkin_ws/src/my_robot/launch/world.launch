@@ -3,9 +3,9 @@
 <launch>
 	
   <!-- Robot pose -->
-  <arg name="x" default="-2"/>
-  <arg name="y" default="5"/>
-  <arg name="z" default="-1.57"/>
+  <arg name="x" default="-6"/>
+  <arg name="y" default="-3"/>
+  <arg name="z" default="0"/>
   <arg name="roll" default="0"/>
   <arg name="pitch" default="0"/>
   <arg name="yaw" default="0"/>
